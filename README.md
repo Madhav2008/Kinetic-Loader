@@ -1,1 +1,1 @@
-# Kinetic-Loader-Using-HTML-CSS-And-JavaScript
+# Kinetic-Loader-Using-HTML-CSS
